@@ -1,0 +1,4 @@
+pandas==2.0.1
+requests==2.31.0
+customtkinter==5.0.2
+fpdf==1.7.2
