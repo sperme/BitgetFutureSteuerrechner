@@ -1,3 +1,10 @@
+# Copyright (c) 2024 usexless
+# Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+# You may not use this software for commercial purposes or create derivative works without permission.
+# For more information, visit: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+# GitHub Repository: https://github.com/usexless/BitgetFutureSteuerrechner
+
 import pandas as pd
 import requests
 import customtkinter as ctk
