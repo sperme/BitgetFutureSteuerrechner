@@ -93,7 +93,13 @@ Wenn du Vorschläge oder Verbesserungen hast, erstelle gerne ein Issue oder eine
 
 ## 📄 Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert.  
+Dieses Projekt ist unter der **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)** lizenziert. 
+
+### Bedingungen:
+- **Namensnennung**: Du musst den Urheber des Werkes nennen.
+- **Nicht kommerziell**: Das Material darf nicht für kommerzielle Zwecke verwendet werden.
+- **Keine Bearbeitungen**: Du darfst das Material nicht bearbeiten oder abändern.
+
 Weitere Informationen findest du in der [LICENSE](LICENSE).
 
 ---
