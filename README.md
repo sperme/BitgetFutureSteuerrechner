@@ -110,4 +110,3 @@ Für Fragen oder Feedback besuche [mein GitHub-Profil](https://github.com/usexle
 ---
 
 Viel Erfolg mit deinem Futures-Trading! 💹
-```
