@@ -111,16 +111,3 @@ Für Fragen oder Feedback besuche [mein GitHub-Profil](https://github.com/usexle
 
 Viel Erfolg mit deinem Futures-Trading! 💹
 ```
-
-### Änderungen:
-1. **Zeilenumbrüche**:  
-   Alle Absätze sind klar getrennt, insbesondere in den Abschnitten **Funktionen** und **Rechtlicher Hinweis**, um die Lesbarkeit zu verbessern.
-
-2. **Klare Installation**:  
-   Die drei Schritte sind klar nummeriert und voneinander getrennt. Die Blöcke für Befehle sind korrekt eingerückt und voneinander abgegrenzt.
-
-3. **Übersichtlichkeit**:  
-   - Listenpunkte in Funktionen und Bedienung machen den Text einfacher lesbar.
-   - Abgrenzung durch horizontale Linien (`---`).
-
-Das sollte die Struktur und Lesbarkeit erheblich verbessern.
